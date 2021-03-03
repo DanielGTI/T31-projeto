@@ -27,6 +27,9 @@ Portanto, não enviar o projeto, documentação ou códigos por e-mail.
 	+ **Endereço do repositório**.
 	+ **Endereço do Sistema WEB** (Hospedado na AWS)
 	
+No **Titulo** do email informar apenas: **Entrega T31-projeto**
+
+
 **ATENÇÃO:**
 Sem o envio do email com estas informações o trabalho não será corrigido. 
 
