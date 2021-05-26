@@ -32,7 +32,7 @@ Sem o envio do email com estas informações o trabalho não será corrigido.
 
 
 ## Calendário de Entregas
-* **31/05/2021**
+* **13/06/2021** (Prorrogado)
 	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na Cloud.
 	+ Envio do email formalizando a entrega do projeto.
